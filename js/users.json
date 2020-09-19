@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "name": "Herse",
+    "surname": "Hedman",
+    "avatar": "./media/man1.jpg",
+    "position": "CO-Founder"
+  },
+  {
+    "id": "2",
+    "name": "Paulina",
+    "surname": "Gayoso",
+    "avatar": "./media/woman1.png",
+    "position": "Manager"
+  },
+  {
+    "id": "3",
+    "name": "John",
+    "surname": "Smith",
+    "avatar": "./media/man2.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "4",
+    "name": "Sam",
+    "surname": "Brown",
+    "avatar": "./media/man3.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "5",
+    "name": "Albert",
+    "surname": "Simpson",
+    "avatar": "./media/man2.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "6",
+    "name": "Jack",
+    "surname": "Black",
+    "avatar": "./media/man3.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "7",
+    "name": "Cameron",
+    "surname": "Fetcher",
+    "avatar": "./media/man2.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "7",
+    "name": "Jack",
+    "surname": "Black",
+    "avatar": "./media/man3.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "8",
+    "name": "Cameron",
+    "surname": "Fetcher",
+    "avatar": "./media/man2.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "9",
+    "name": "Herse",
+    "surname": "Hedman",
+    "avatar": "./media/man1.jpg",
+    "position": "CO-Founder"
+  },
+  {
+    "id": "10",
+    "name": "Paulina",
+    "surname": "Gayoso",
+    "avatar": "./media/woman1.png",
+    "position": "Manager"
+  },
+  {
+    "id": "11",
+    "name": "John",
+    "surname": "Smith",
+    "avatar": "./media/man2.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "12",
+    "name": "Sam",
+    "surname": "Brown",
+    "avatar": "./media/man3.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "13",
+    "name": "Albert",
+    "surname": "Simpson",
+    "avatar": "./media/man2.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "14",
+    "name": "Jack",
+    "surname": "Black",
+    "avatar": "./media/man3.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "15",
+    "name": "Cameron",
+    "surname": "Fetcher",
+    "avatar": "./media/man2.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "16",
+    "name": "Jack",
+    "surname": "Black",
+    "avatar": "./media/man3.jpg",
+    "position": "Developer"
+  },
+  {
+    "id": "17",
+    "name": "Cameron",
+    "surname": "Fetcher",
+    "avatar": "./media/man2.jpg",
+    "position": "Developer"
+  }
+]
